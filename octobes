@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NexaWorks</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>NexaWorks</h1>
+  <p>Powering Digital Workforces</p>
+</header>
+
+<section class="container">
+  <div class="card">
+    <h2>For Clients</h2>
+    <p>Submit projects and get them done by skilled teams.</p>
+  </div>
+
+  <div class="card">
+    <h2>For Employees</h2>
+    <p>Work on tasks, earn, and grow your skills.</p>
+  </div>
+
+  <a href="login.html">
+    <button>Get Started</button>
+  </a>
+</section>
+
+</body>
+</html>
